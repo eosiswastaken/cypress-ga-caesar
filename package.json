@@ -1,0 +1,23 @@
+{
+  "name": "cypress-ga-caesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eosiswastaken/cypress-ga-caesar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eosiswastaken/cypress-ga-caesar/issues"
+  },
+  "homepage": "https://github.com/eosiswastaken/cypress-ga-caesar#readme",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  }
+}
