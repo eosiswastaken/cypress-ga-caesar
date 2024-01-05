@@ -1,1 +1,1 @@
-Automated Cypress testing with GitHub Actions, and webhook feedback
+Automated Cypress testing with GitHub Actions and webhook feedback.
